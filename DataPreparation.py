@@ -3,7 +3,7 @@ import numpy as np
 import os
 import glob
 
-base_path = 'ruta/de/la/informacion/' 
+base_path = 'ruta/de/la/informacion/'
 
 all_rows = []
 
